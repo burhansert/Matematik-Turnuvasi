@@ -1,0 +1,94 @@
+<--------Gelecekte-------->
+*Ana formda yardým butonu/menüsü
+*Þifreni hatýrla butonu olacak
+*Admin þifresini girince parolalar görünecek
+
+<--------Sürüm Geçmiþi-------->
+[1.7.6] 2018.03.19
+++seviye ve leveller arasýnda çok kolay geçiliyor ve mükemmel çalýþýyor bu özellik
+++tasarým yenilendi
+++daha çok veri veritabanýndan alýnmalý ve kaydedilmeli
+--daha fazla denklem eklenmeli
+--yeni soru sorulduðunda klavyeden bir tuþa basýlmadýðý sürece iþlem onaylanmasýn
+
+[1.7.5] 2018.03.18
+++Bütün iþlemeler string olarak kontrol ediliyor
+++Gereksiz kodlar silindi
+++Seviye türü level deðiþtirme özellikleri eklendi
+--yönetici modunu açma parolasý olmalý
+--yönetici modunda seviyeler ve leveller arasýnda geçiþ olmalý
+--enter tuþu "cevabý onayla" iþlemi yapmalý
+--cevabý doðru bulana kadar sonraki soruya geçmeme modu olmalý
+
+[1.7.4] 2018.03.15
+++çýkarma ve toplama iþlemleri sisteme eklendi
+++bazý denklemler sisteme eklendi
+++level düþülüyor fakat seviye (iþlem türü >>toplama, çýkarma gibi) düþülmüyor
+--seviye paneli, forma eklenmeli
+--daha fazla denklem eklenmeli
+--klavyeye - karakteri ve / karakteri eklenmeli
+
+[1.7.3] 2018.03.14
+++Yanlýþ çözülen sorunun doðrusunu söylüyor
+
+[1.7.2] 2018.03.14
+++Sýnýf yapýlarý güncellenerek geliþmeye açýk hale getirildi.
+--Yanlýþ çözdüðümüz sorunun doðrusunu söylemiyor
+
+[1.7.1] 2018.03.11
+++sadece kilit ekranýnda kullanýcý deðiþtiriliyor
+
+[1.7.0] 2018.03.11
+++Gereksiz kodlar silindi
+++klavye tuþlarý tek bir kod bloðuna basitleþtirildi
+++tasarým yenilendi
+++sonuç ekranýnda klavye gizleniyor
+++sonuç ekranýnda öðrenci deðiþtirmek yasak
+++program hatasýz
+
+[1.6.9] 2018.03.11
+++gereksiz butonlar silindi
+++tasarým yenilendi
+++"grup çalýþmasýnda gruplardaki tablara týklayýnca þifre ekranlarý gizleniyor" hatasý çözüldü
+--sonuç ekranýnda klavye kapalý olmalý
+--yanlýþ çözümlerin doðrularý gösterilmeli
+
+[1.6.8] 2018.02.28
+++Öðrencinin grubunu deðiþtirince deðiþiklikler veritabanýna iþleniyor.
+--grup çalýþmasýnda gruplardaki tablara týklayýnca þifre ekranlarý gizleniyor
+
+[1.6.7] 2018.02.27
+++Grublardaki öðrencilerin þifresi veritabanýndan alýnýyor
+++Öðrenciler gruplar arasýnda taþýnabiliyor
+--Öðrencinin grubunu deðiþtirince deðiþiklikler veritabanýna iþlenmiyor
+
+[1.6.6] 2018.02.27
+Bazý hatalar giderildi
+
+[1.6.5]
+Bazý hatalar giderildi
+
+[1.6.4]
+Grup düzenle formundaki bilgileri sýnýfa göre veritabýndan çekiyor
+
+[1.6.3]
+Gruplar veritabanýna göre oluþturuluyor
+
+[1.6.2]
+küçük düzeltmeler yapýldý
+
+[1.6.1]
+Bazý hatalar giderildi
+Bireysel çalýþma iyileþtirildi
+
+[1.6]
+Grup sayfasý oluþturuldu
+Veritabanýna yeni veriler eklendi
+
+[1.5]
+Kurallar sýnýfý iptal edildi
+Kurallar sýnýfýndaki kodlar Form1 sayfasýna tekrar eklendi
+
+[1.4]
+Sýnýf ve nesneler oluþturuld
+kodlar sýnýf ve nesneye göre düzenlenmedi hatalý çalýþýyor

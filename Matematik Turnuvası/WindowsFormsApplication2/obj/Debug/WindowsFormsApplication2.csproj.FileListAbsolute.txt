@@ -1,0 +1,584 @@
+D:\Belgelerim\Programlama\C#\Dört İşlem\yedekler\WindowsFormsApplication2_v1.4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Belgelerim\Programlama\C#\Dört İşlem\yedekler\WindowsFormsApplication2_v1.4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\C#\Dört İşlem\yedekler\WindowsFormsApplication2_v1.4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Sorular.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Sorular.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2_v1.6.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Dört İşlem\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.8\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.6.9\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.4 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.5 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Veritabani\veri_tabani.sqlite
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x86\sqlite3.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\x64\sqlite3.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Veritabani\veri_tabani.sqlite
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\Remotion.Linq.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Collections.Immutable.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Interactive.Async.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.anaEkran.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupAyarlari.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.grupCalismasi.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.sinifSec.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Matematik-Turnuvasi\v1.7.6 Matematik Turnuvası\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,96 @@
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\x86\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\x64\sqlite3.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Veritabani\myDB.sqlite
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Options.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Remotion.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Collections.Immutable.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.EF6.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.Linq.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Interactive.Async.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Options.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\Remotion.Linq.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Collections.Immutable.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Data.SQLite.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Interactive.Async.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.anaEkran.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.grupAyarlari.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.grupCalismasi.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.sinifSec.resources
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\Programlama\Pc Programlama\C#\Dort-Islem-Turnuvasi\Dört-Islem-Turnuvasi v1.7.0\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb

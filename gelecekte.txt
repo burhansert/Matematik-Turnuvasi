@@ -1,0 +1,20 @@
+Konular sýnýflara ayrýlsýn
+
+Kendi sýnýfýndaki tüm konularý bitirene üst sýnýftan soru sorulmasýn
+Bölme iþlemi eklensin
+
+5a
+kesirle sadeleþtirme ve geniþletme
+iþlem önceliði
+
+6a
+ebob ekok
+cebirsel ifadeler
+tamsayýlarla iþlemler
+
+7a
+grafik çizimi
+karmaþýk denklemler
+
+8a
+karaköklü sayýlar
